@@ -1,0 +1,47 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 1.8;
+}
+
+header {
+    background-color: #25314a;
+    color: #e1e1e1;
+    text-align: center;
+    padding: 1.4em;
+}
+
+section {
+    margin: 2.8em;
+}
+
+h2 {
+    border-bottom: 2px dashed #555;
+    padding-bottom: 0.7em;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 1.9em;
+}
+
+li {
+    margin-bottom: 1.4em;
+}
+
+.center-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+.positioned-div {
+    position: relative;
+    top: 14px;
+    left: 14px;
+}
+
+.footer-div {
+    text-align: center;
+}
+body{
+    background-color: rgb(179, 205, 234);
+}
